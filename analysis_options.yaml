@@ -1,0 +1,14 @@
+# analysis_options.yaml
+
+# Remove the non-existent flutter_lints include
+# include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+linter:
+  rules:
+  # You can enable or disable lint rules here.
+  # e.g., always_declare_return_types: true
